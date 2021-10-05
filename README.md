@@ -30,7 +30,7 @@
 >	
 >	**t1 = t2; t2 = t;**
 >		
->*El resultado final de s1 y t1 nos van a dar los valores de x y y*
+>*El resultado final de s1 y t1 nos van a dar los valores de x y y*, se va a ir repitiendo todo esto hasta que r2=0
 >
 >**s = s1;**
 >*Aquí lo iguale a s1 que es valor de x pero tambien pude igualarlo a t1 para que me de el valor de y, con el fin de retornar algo *
