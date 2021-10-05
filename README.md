@@ -2,8 +2,6 @@
 ## Euclides Extendido
 > El objetivo es sacar el "x" y "y" de ax+by=gcd(a,b)
 > 
-> int r1 = a, r2 = b;
-  int s1 = 1, s2 = 0;//para sacar el valor de x
-  int t1 = 0, t2 = 1;//para sacar el valor de y
-  int s;
-  int t;
+> while (r2 > 0)
+>
+>El bucle termina cuando b llega a 0, eso significa que todas las iteraciones se han cumplido con exito y ha logrado sacar el mcd, que va a ser el ultimo valor anterior al 0
