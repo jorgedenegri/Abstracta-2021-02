@@ -19,7 +19,7 @@
 >**r2 = r;**
 >
 >*Ahora como se vio en clase el segundo numero toma la posición del primero y el nuevo segundo va a tener como valor el residuo*
->	**s = s1 - (q * s2);
+>	**s = s1 - (q * s2);**
 >
 > **s1 = s2;**
 >       
