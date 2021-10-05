@@ -21,13 +21,13 @@
 >*Ahora como se vio en clase el segundo numero toma la posición del primero y el nuevo segundo va a tener como valor el residuo*
 >	**s = s1 - (q * s2);
 >
-> s1 = s2;
+> **s1 = s2;**
 >       
-> s2 = s;
+> **s2 = s;**
 >
->	t = t1 - (q * t2);	
+>	**t = t1 - (q * t2);**	
 >	
->	t1 = t2; t2 = t;**
+>	**t1 = t2; t2 = t;**
 >		
 >*El resultado final de s1 y t1 nos van a dar los valores de x y y*
 >
