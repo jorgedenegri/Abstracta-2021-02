@@ -33,6 +33,6 @@
 >
 >**s = s1;**
 >*Aquí lo iguale a s1 que es valor de x pero tambien pude igualarlo a t1 para que me de el valor de y, con el fin de retornar algo *
-###Ejemplo del resultado
+### Ejemplo del resultado
 >
 >![image](https://user-images.githubusercontent.com/54364033/135956506-ce9f78f2-2775-4046-980a-b5bbdf93a7e0.png)
